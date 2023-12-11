@@ -1,3 +1,3 @@
 # LangueDeChat
 
-[Read the report of the project](report.pdf)
+[Read the report of the project](Report.pdf)
